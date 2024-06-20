@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="41831ef4-ff56-4f7e-b45e-1d10e567eb56" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2hzzXacQ4rPwv4F8FEsMYcCbd7e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.AddCartPageTests.checkoutButtonIsCorrect.executor": "Run",
+    "TestNG.AddCartPageTests.removeButtonAddCartPageIsCorrect.executor": "Run",
+    "TestNG.AddCartPageTests.test.executor": "Run",
+    "TestNG.AddCartPageTests.userCanNotChangeQuantity.executor": "Run",
+    "TestNG.CheckoutOverviewPageTests.cancelButtonIsCorrect.executor": "Run",
+    "TestNG.CheckoutOverviewPageTests.itIsCheckoutOverviewPage.executor": "Run",
+    "TestNG.CheckoutYourInfomractionPageTests.successfulFillingOfInformationsFields.executor": "Run",
+    "TestNG.CheckoutYourInfomractionPageTests.test.executor": "Run",
+    "TestNG.CheckoutYourInfomractionPageTests.uncussefulContinuingByFillingOnlyFirstAndLastNameFields.executor": "Run",
+    "TestNG.CheckoutYourInfomractionPageTests.unsuccessfulContinuingByFiilingOnlyFirstNameField.executor": "Run",
+    "TestNG.CheckoutYourInfomractionPageTests.unsuccessfulContinuingByFillingOnlyLastNameAndPOstalCodeFields.executor": "Run",
+    "TestNG.CheckoutYourInfomractionPageTests.unsuccessfulContinuingByFillingOnlyLastNameField.executor": "Run",
+    "TestNG.CheckoutYourInfomractionPageTests.unsuccessfulContinuingByFillingOnlyPostalCodeField.executor": "Run",
+    "TestNG.FinishPageTests.backToProdutcsButtonIsCorrect.executor": "Run",
+    "TestNG.FinishPageTests.itIsFinishPage.executor": "Run",
+    "TestNG.HomePageTest.fbIconIsCorrect.executor": "Run",
+    "TestNG.HomePageTest.linkendinIconIsCorrect.executor": "Run",
+    "TestNG.HomePageTest.menuOptionAboutIsCorrect.executor": "Run",
+    "TestNG.HomePageTest.menuOptionAllItemsIsCorrect.executor": "Run",
+    "TestNG.HomePageTest.menuOptionLogoutIsCorrect.executor": "Run",
+    "TestNG.HomePageTest.menuOptionsAreDisplayed.executor": "Run",
+    "TestNG.HomePageTest.otpionResetAppStateIscorrect.executor": "Run",
+    "TestNG.HomePageTest.removeButtonOnHomePageIsCorrect.executor": "Run",
+    "TestNG.HomePageTest.twitterIconIsCorrect.executor": "Run",
+    "TestNG.HomePageTest.userCanAccessShoppingCartFromHomePage.executor": "Run",
+    "TestNG.HomePageTest.userCanAddMoreProductsToCartFromHomePage.executor": "Run",
+    "TestNG.HomePageTest.userCanAddProductToCartFromHomePage.executor": "Run",
+    "TestNG.LoginTest.executor": "Run",
+    "TestNG.LoginTest.successfulLogin.executor": "Run",
+    "TestNG.LoginTest.uncecessfulLoginNonPredifineUsernamePredifinePassword.executor": "Run",
+    "TestNG.LoginTest.uncecessfulLoginPredifineUsernameNonPredifinePassword.executor": "Run",
+    "TestNG.LoginTest.uncecessfulLoginWithOnlyUsername.executor": "Run",
+    "TestNG.LoginTest.uncecessfulLoginWithPasswordOnly.executor": "Run",
+    "TestNG.LoginTest.uncecessfulLoginWithoutUsernameAndPassword.executor": "Run",
+    "TestNG.LoginTest.unsuccessfulLoginNonPredifineUsernamePassword.executor": "Run",
+    "TestNG.LoginTest.userCanLog.executor": "Run",
+    "TestNG.ProductPageTests.backToProductsButtonIsDisplayed.executor": "Run",
+    "TestNG.ProductPageTests.clikOnProductNameIsCorrect.executor": "Run",
+    "TestNG.ProductPageTests.removeButtonOnProductPageIsCorrect.executor": "Run",
+    "TestNG.ProductPageTests.test.executor": "Run",
+    "TestNG.ProductPageTests.userCanAddMoreProductsFromProductsPages.executor": "Run",
+    "TestNG.ProductPageTests.userCanAddProductFromProductPage.executor": "Run",
+    "TestNG.SortOptionsTest.executor": "Run",
+    "TestNG.SortOptionsTest.optionNameAToZ.executor": "Run",
+    "TestNG.SortOptionsTest.sortOptionsTests.executor": "Run",
+    "TestNG.SortOptionsTest.sortOptionsTestsAreDisplayed.executor": "Run",
+    "TestNG.SortOptionsTest.test.executor": "Run",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.HomePageTest.linkendinIconIsCorrect">
+    <configuration name="HomePageTest.fbIconIsCorrect" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProjectSwagLabsJelenaTrninic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.HomePageTest" />
+      <option name="METHOD_NAME" value="fbIconIsCorrect" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest.linkendinIconIsCorrect" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProjectSwagLabsJelenaTrninic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.HomePageTest" />
+      <option name="METHOD_NAME" value="linkendinIconIsCorrect" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest.menuOptionLogoutIsCorrect" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProjectSwagLabsJelenaTrninic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.HomePageTest" />
+      <option name="METHOD_NAME" value="menuOptionLogoutIsCorrect" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest.otpionResetAppStateIscorrect" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProjectSwagLabsJelenaTrninic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.HomePageTest" />
+      <option name="METHOD_NAME" value="otpionResetAppStateIscorrect" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest.twitterIconIsCorrect" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProjectSwagLabsJelenaTrninic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.HomePageTest" />
+      <option name="METHOD_NAME" value="twitterIconIsCorrect" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.HomePageTest.linkendinIconIsCorrect" />
+        <item itemvalue="TestNG.HomePageTest.fbIconIsCorrect" />
+        <item itemvalue="TestNG.HomePageTest.twitterIconIsCorrect" />
+        <item itemvalue="TestNG.HomePageTest.otpionResetAppStateIscorrect" />
+        <item itemvalue="TestNG.HomePageTest.menuOptionLogoutIsCorrect" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41831ef4-ff56-4f7e-b45e-1d10e567eb56" name="Changes" comment="" />
+      <created>1718611735246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718611735246</updated>
+    </task>
+    <servers />
+  </component>
+</project>
